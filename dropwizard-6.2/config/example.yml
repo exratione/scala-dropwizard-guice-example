@@ -1,0 +1,13 @@
+#
+# Example Dropwizard configuration file.
+#
+
+# Encoding for content.
+contentEncoding: UTF-8
+
+# Path in the JAR file to a resource containing text for the example
+# application to display.
+contentResource: /resources/content.txt
+
+# Ensure content is no longer than this number of characters.
+contentTrimLength: 100
